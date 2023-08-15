@@ -4,10 +4,16 @@
 //console.log("Learning JavaScrip From Zero to Advanced");
 
 
-if (0>1){
-    console.log(" Yess 0 Boro");
+var age = 30;
+
+if (age > 50){
+    console.log("tmi akta buira");
+}
+
+else if(age < 40){
+console.log("tmi young aso miya");
 }
 
 else{
-    console.log(" Na 0 Boro na");
+    console.log("tmi buira na");
 }
