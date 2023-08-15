@@ -4,8 +4,10 @@
 //console.log("Learning JavaScrip From Zero to Advanced");
 
 
-var num1 = 30.5;
-var num2 = 11.8;
-var sum = num1 + num2
+if (0>1){
+    console.log(" Yess 0 Boro");
+}
 
-console.log(sum);
+else{
+    console.log(" Na 0 Boro na");
+}
