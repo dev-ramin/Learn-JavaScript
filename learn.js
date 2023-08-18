@@ -30,3 +30,11 @@ console.log("tmi young aso miya");
 else{
     console.log("tmi buira na");
 }
+
+var person = {
+    name: "Amin",
+    age: 27,
+    status: "Marred",
+}
+
+console.log(typeof person);
