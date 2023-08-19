@@ -46,12 +46,20 @@
 //console.log(arrayAce);
 
 
-var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+//var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-for (var index = 0; index < numbers.length; index++) {
-    var element = numbers[index];
+//for (var index = 0; index < numbers.length; index++) {
+    //var element = numbers[index];
 
-    if (element==4) {
-        console.log("Khaialamu Tore");
-    }
+    //if (element==4) {
+      //  console.log("Khaialamu Tore");
+    //}
+//}
+
+function addToNumber (a,b){
+var result = a - b;
+return result;
 }
+
+var output = addToNumber(90, 60);
+console.log(output);
