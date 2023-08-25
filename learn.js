@@ -63,3 +63,5 @@ return result;
 
 var output = addToNumber(90, 60);
 console.log(output);
+var output = addToNumber(90, 60);
+console.log(output);
